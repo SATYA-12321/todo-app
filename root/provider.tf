@@ -1,3 +1,8 @@
+# This file configures the Azure provider for Terraform.
+# It specifies the required provider version and sets up the provider with the necessary features.  
+
+
+
 terraform {
   required_providers {
     azurerm = {
