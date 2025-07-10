@@ -1,5 +1,6 @@
 # This file configures the Azure provider for Terraform.
-
+# It specifies the required provider version and the Azure subscription to use.
+# Ensure you have the Azure CLI installed and authenticated before running Terraform commands.
 
 
 terraform {
