@@ -1,4 +1,9 @@
-# This file configures the Azure provider for Terraform.
+# Warning: Code me ghusne se pehle soch lo 🤔
+# Yeh file pehle bhi chal chuki hai... galti se!
+# Agar kaam kar raha hai, toh bhagwaan ka shukriya karo 🙏
+# Agar nahi chal raha... toh kisi aur ka commit tha 😅
+# Debug karte karte beard badh jaayegi 🧔
+# Par end me 'terraform apply' toh karna hi padega 😭
 
 
 
