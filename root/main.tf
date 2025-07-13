@@ -3,6 +3,10 @@ module "rg" {
   resource_group_name = "satya-rg"
     resource_group_location = "East US"
 }
+# This is the main Terraform configuration file for deploying resources in Azure.
+# It includes modules for resource group, virtual network, subnet, and virtual machine.
+
+
 
 module "vnet" {
   source                  = "../virtual_network"
